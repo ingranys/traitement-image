@@ -1,6 +1,8 @@
 # Traitement d'image
 Notebooks Jupyter pour les algorithmes de traitement d'images les plus répandus.
 
+# Utilisation
+Pour manipuler directement les notebooks, rendez-vous sur Binder [:link:](https://mybinder.org/v2/gh/ingranys/traitement-image/HEAD).
 
 # Résultats
 
