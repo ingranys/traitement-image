@@ -1,8 +1,9 @@
 # Traitement d'image
+[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingranys/traitement-image/main) \
 Notebooks Jupyter pour les algorithmes de traitement d'images les plus répandus.
 
 # Utilisation
-Pour manipuler directement les notebooks, rendez-vous sur Binder [:link:](https://mybinder.org/v2/gh/ingranys/traitement-image/HEAD).
+Pour manipuler directement les notebooks, rendez-vous sur Binder [:link:](https://mybinder.org/v2/gh/ingranys/traitement-image/main).
 
 # Résultats
 
